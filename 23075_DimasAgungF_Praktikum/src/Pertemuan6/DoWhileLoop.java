@@ -1,16 +1,16 @@
-package Praktikum6;
+package Pertemuan6;
 
-public class WhileLoop {
+public class DoWhileLoop {
     int cond;
-    public WhileLoop(int cond) {
+    public DoWhileLoop(int cond) {
         this.cond = cond;
     }
     
     public void PrintLoop() {
-        int i = 0;
-        while (i < 5) {
+        int i = 1;
+        do {
             System.out.println(i);
             i++;
-        }
+        }while(i <= cond);
     }
 }

@@ -1,4 +1,4 @@
-package Praktikum6;
+package Pertemuan6;
 
 public class NestedLoopDemo {
     public static void main(String[] args) {

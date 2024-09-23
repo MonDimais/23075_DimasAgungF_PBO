@@ -1,4 +1,4 @@
-package Praktikum6;
+package Pertemuan6;
 
 public class PrintNumbers {
     int batas;
